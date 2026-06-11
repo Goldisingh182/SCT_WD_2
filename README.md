@@ -21,7 +21,7 @@
  - CSS3
  - JavaScript (Vanilla JS)
 # 🌐 Live Project
- 🌐 Live Project: 
+ 🌐 Live Project:  https://goldisingh182.github.io/SCT_WD_2/
  
 👉 GitHub Repository:https://github.com/Goldisingh182/SCT_WD_2
 #  📂 Project Structure
@@ -62,7 +62,7 @@
 
 🔗 GitHub:https://github.com/Goldisingh182/SCT_WD_2
 
-🌐 Live Project: 
+🌐 Live Project:  https://goldisingh182.github.io/SCT_WD_2/
 
 💼 LinkedIn:https://www.linkedin.com/in/goldi-singh-rajput-a62b7b2b7?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
