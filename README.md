@@ -23,7 +23,7 @@
 # 🌐 Live Project
  🌐 Live Project: 
  
-👉 GitHub Repository:
+👉 GitHub Repository:https://github.com/Goldisingh182/SCT_WD_2
 #  📂 Project Structure
 
  SCT_WD_2
@@ -60,7 +60,7 @@
   
 📧 Email:goldisinghrajput2006@gmail.com
 
-🔗 GitHub:
+🔗 GitHub:https://github.com/Goldisingh182/SCT_WD_2
 
 🌐 Live Project: 
 
